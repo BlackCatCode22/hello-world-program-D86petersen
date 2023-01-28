@@ -7,7 +7,7 @@
 # Reference: https://www.w3schools.com/python/python_user_input.asp
 #
 # Sample code:
-user_name = input("Please enter you name: ")
-print("\n\n Hello " + user_name + " how are you today?")
+person = input("Hello user, Please enter your name: ")
 
+print("Hello " + person + " It is nice to meet you!")
 
